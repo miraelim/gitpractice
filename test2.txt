@@ -1,2 +1,2 @@
 It is test 2
-It is modified by me
+It is modified by both of us
