@@ -1,2 +1,2 @@
 It is test1
-Test1.txt is modified in master branch
+Test1.txt is modified in both branch
